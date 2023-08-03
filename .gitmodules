@@ -1,0 +1,3 @@
+[submodule "react-app-frontend"]
+	path = react-app-frontend
+	url = git@github.com:VictorBezak/react-app-frontend.git
